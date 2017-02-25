@@ -624,6 +624,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/climate_control-0.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="cliver (v0.3.2, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/cliver-0.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/cliver-0.3.2/.githooks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/cliver-0.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/cliver-0.3.2/.githooks" />
+      </SOURCES>
+    </library>
     <library name="cliver (v0.3.2, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/cliver-0.3.2/lib" />
@@ -2312,6 +2322,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/pkg-config-1.1.7/lib" />
       </SOURCES>
     </library>
+    <library name="poltergeist (v1.12.0, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/poltergeist-1.12.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/poltergeist-1.12.0/lib" />
+      </SOURCES>
+    </library>
     <library name="poltergeist (v1.12.0, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/poltergeist-1.12.0/lib" />
@@ -2880,6 +2898,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/rubyzip-1.0.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/rubyzip-1.0.0/samples" />
+      </SOURCES>
+    </library>
+    <library name="russian (v0.6.0, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/russian-0.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/russian-0.6.0/lib" />
       </SOURCES>
     </library>
     <library name="russian (v0.6.0, RVM: ruby-2.3.0) [gem]">
