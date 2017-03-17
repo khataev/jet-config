@@ -3810,6 +3810,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/spring-1.7.2/lib" />
       </SOURCES>
     </library>
+    <library name="spring-commands-rspec (v1.0.4, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/spring-commands-rspec-1.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/spring-commands-rspec-1.0.4/lib" />
+      </SOURCES>
+    </library>
     <library name="sprockets (v2.12.4, RVM: ruby-2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/sprockets-2.12.4/bin" />
