@@ -1590,6 +1590,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/faye-1.2.4/build" />
       </SOURCES>
     </library>
+    <library name="faye-websocket (v0.10.0, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/faye-websocket-0.10.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/faye-websocket-0.10.0/lib" />
+      </SOURCES>
+    </library>
     <library name="faye-websocket (v0.10.4, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/faye-websocket-0.10.4/lib" />
@@ -1770,6 +1778,20 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/hike-1.2.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="hiredis (v0.6.1, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/hiredis/0.6.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/hiredis-0.6.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/hiredis-0.6.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/hiredis-0.6.1/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/hiredis/0.6.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/hiredis-0.6.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/hiredis-0.6.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/hiredis-0.6.1/vendor" />
       </SOURCES>
     </library>
     <library name="htmlentities (v4.3.4, RVM: ruby-2.2.2) [gem]">
@@ -3974,22 +3996,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/sshkit-1.11.2/lib" />
       </SOURCES>
     </library>
-    <library name="sshkit (v1.12.0, RVM: ruby-2.2.2) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/sshkit-1.12.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/sshkit-1.12.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="sshkit (v1.13.0, RVM: ruby-2.2.2) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/sshkit-1.13.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/sshkit-1.13.0/lib" />
-      </SOURCES>
-    </library>
     <library name="state_machines (v0.4.0, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/state_machines-0.4.0/lib" />
@@ -4626,6 +4632,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/websocket-extensions-0.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="websocket-rails (v0.7.0, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/websocket-rails-0.7.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/websocket-rails-0.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/websocket-rails-0.7.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/websocket-rails-0.7.0/lib" />
       </SOURCES>
     </library>
     <library name="whenever (v0.9.7, RVM: ruby-2.2.2) [gem]">
