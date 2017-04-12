@@ -4022,6 +4022,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/gems/sshkit-1.11.2/lib" />
       </SOURCES>
     </library>
+    <library name="sshkit (v1.13.0, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/sshkit-1.13.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/sshkit-1.13.0/lib" />
+      </SOURCES>
+    </library>
     <library name="state_machines (v0.4.0, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/state_machines-0.4.0/lib" />
