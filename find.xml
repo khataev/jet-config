@@ -5,10 +5,8 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.rb" />
     <recentFileMasks>
-      <mask>Gemf</mask>
-      <mask>Gemfi</mask>
-      <mask>Gemfile</mask>
       <mask>Gemfil</mask>
       <mask>*.coffee</mask>
       <mask>*.coffe</mask>
@@ -16,8 +14,6 @@
       <mask>*.cof</mask>
       <mask>*.co</mask>
       <mask>*.c</mask>
-      <mask>*.rb</mask>
-      <mask>*.r</mask>
       <mask>erb==</mask>
       <mask>erb=</mask>
       <mask>erb</mask>
@@ -32,10 +28,15 @@
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.y</mask>
-      <mask>*.ym</mask>
       <mask>*.yml</mask>
+      <mask>*.ym</mask>
+      <mask>*.y</mask>
+      <mask>*.</mask>
+      <mask>*.ruby</mask>
+      <mask>*.rub</mask>
+      <mask>*.ru</mask>
+      <mask>*.r</mask>
+      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
