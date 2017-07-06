@@ -5,11 +5,8 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.slim" />
     <recentFileMasks>
-      <mask>Gemfil</mask>
-      <mask>*.coffee</mask>
-      <mask>*.coffe</mask>
-      <mask>*.coff</mask>
       <mask>*.cof</mask>
       <mask>*.co</mask>
       <mask>*.c</mask>
@@ -26,16 +23,20 @@
       <mask>*.js.</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*</mask>
       <mask>*.yml</mask>
       <mask>*.ym</mask>
       <mask>*.y</mask>
-      <mask>*.</mask>
       <mask>*.ruby</mask>
       <mask>*.rub</mask>
       <mask>*.ru</mask>
       <mask>*.r</mask>
       <mask>*.rb</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sl</mask>
+      <mask>*.sli</mask>
+      <mask>*.slim</mask>
     </recentFileMasks>
   </component>
 </application>
