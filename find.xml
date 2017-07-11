@@ -5,13 +5,8 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.coffee" />
     <recentFileMasks>
-      <mask>*.cof</mask>
-      <mask>*.co</mask>
-      <mask>*.c</mask>
-      <mask>erb==</mask>
-      <mask>erb=</mask>
-      <mask>erb</mask>
       <mask>er</mask>
       <mask>e</mask>
       <mask>js</mask>
@@ -20,8 +15,6 @@
       <mask>*.js.er</mask>
       <mask>*.js.e</mask>
       <mask>*.js.</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
       <mask>*.yml</mask>
       <mask>*.ym</mask>
       <mask>*.y</mask>
@@ -30,12 +23,20 @@
       <mask>*.ru</mask>
       <mask>*.r</mask>
       <mask>*.rb</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.sl</mask>
       <mask>*.sli</mask>
       <mask>*.slim</mask>
+      <mask>*</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.c</mask>
+      <mask>*.co</mask>
+      <mask>*.cof</mask>
+      <mask>*.coff</mask>
+      <mask>*.coffe</mask>
+      <mask>*.coffee</mask>
     </recentFileMasks>
   </component>
 </application>
