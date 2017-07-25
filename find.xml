@@ -5,9 +5,8 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.rb" />
     <recentFileMasks>
-      <mask>js</mask>
-      <mask>j</mask>
       <mask>*.js.erb</mask>
       <mask>*.js.er</mask>
       <mask>*.js.e</mask>
@@ -20,8 +19,6 @@
       <mask>*.ru</mask>
       <mask>*.r</mask>
       <mask>r</mask>
-      <mask>rb</mask>
-      <mask>*.rb</mask>
       <mask>*</mask>
       <mask>*.slim</mask>
       <mask>*.sli</mask>
@@ -36,6 +33,10 @@
       <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>.rb</mask>
+      <mask>rb</mask>
+      <mask>*rb</mask>
+      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
