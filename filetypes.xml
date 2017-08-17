@@ -9,6 +9,7 @@
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="tory:" type="PLAIN_TEXT" />
       <mapping pattern=".rbenv-vars-old-test1" type="PLAIN_TEXT" />
+      <mapping pattern="Gemfile1" type="PLAIN_TEXT" />
       <mapping pattern=".rbenv-vars-main-test1" type="PLAIN_TEXT" />
       <mapping pattern=".rbenv-vars-prod" type="PLAIN_TEXT" />
       <mapping pattern=".pryrc" type="PLAIN_TEXT" />
