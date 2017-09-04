@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
       <mask>*.ru</mask>
       <mask>r</mask>
@@ -16,9 +17,6 @@
       <mask>c</mask>
       <mask>*.sl</mask>
       <mask>*.sli</mask>
-      <mask>*.y</mask>
-      <mask>*.ym</mask>
-      <mask>*.yml</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.coffee</mask>
@@ -26,18 +24,21 @@
       <mask>*.coff</mask>
       <mask>*.cof</mask>
       <mask>*.co</mask>
-      <mask>*</mask>
       <mask>*.scs</mask>
       <mask>*.sc</mask>
       <mask>*.rb</mask>
       <mask>*.r</mask>
       <mask>*.s</mask>
-      <mask>*.</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.slim</mask>
       <mask>*.css</mask>
       <mask>*.scss</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.y</mask>
+      <mask>*.ym</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
