@@ -6302,6 +6302,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/underwriting_core-bc4a7e444416/vendor" />
       </SOURCES>
     </library>
+    <library name="underwriting_core (v0.1.1@c2df56, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/underwriting_core-c2df56b70fdc/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/underwriting_core-c2df56b70fdc/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/underwriting_core-c2df56b70fdc/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/underwriting_core-c2df56b70fdc/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/underwriting_core-c2df56b70fdc/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/underwriting_core-c2df56b70fdc/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/underwriting_core-c2df56b70fdc/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/underwriting_core-c2df56b70fdc/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/underwriting_core-c2df56b70fdc/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/underwriting_core-c2df56b70fdc/vendor" />
+      </SOURCES>
+    </library>
     <library name="underwriting_core (v0.1.1@d7916a, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/underwriting_core-d7916aeb6ae4/app" />
@@ -6568,6 +6584,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/underwriting_models-544b66c2a7b1/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/underwriting_models-544b66c2a7b1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/underwriting_models-544b66c2a7b1/config" />
+      </SOURCES>
+    </library>
+    <library name="underwriting_models (v0.8.0@5683e6, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/underwriting_models-5683e68151b3/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/underwriting_models-5683e68151b3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/underwriting_models-5683e68151b3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/underwriting_models-5683e68151b3/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/underwriting_models-5683e68151b3/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/underwriting_models-5683e68151b3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/underwriting_models-5683e68151b3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/underwriting_models-5683e68151b3/config" />
       </SOURCES>
     </library>
     <library name="underwriting_models (v0.8.0@5b91d9, rbenv: 2.3.1) [gem]">
