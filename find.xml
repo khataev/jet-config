@@ -15,11 +15,6 @@
       <mask>c</mask>
       <mask>*.sl</mask>
       <mask>*.sli</mask>
-      <mask>*.coffe</mask>
-      <mask>*.coff</mask>
-      <mask>*.cof</mask>
-      <mask>*.co</mask>
-      <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.slim</mask>
       <mask>*.css</mask>
@@ -28,16 +23,21 @@
       <mask>*.scs</mask>
       <mask>*.sc</mask>
       <mask>*.s</mask>
-      <mask>*.coffee</mask>
       <mask>*.y</mask>
       <mask>*.ym</mask>
       <mask>*.yml</mask>
       <mask>.rb</mask>
+      <mask>*.rb</mask>
+      <mask>*.r</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
-      <mask>*.r</mask>
-      <mask>*.rb</mask>
+      <mask>*.c</mask>
+      <mask>*.co</mask>
+      <mask>*.cof</mask>
+      <mask>*.coff</mask>
+      <mask>*.coffe</mask>
+      <mask>*.coffee</mask>
     </recentFileMasks>
   </component>
 </application>
