@@ -4,6 +4,7 @@
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <mapping pattern=".rbenv-vars-TEST" type="PLAIN_TEXT" />
       <mapping pattern=".rbenv-vars-PROD" type="PLAIN_TEXT" />
+      <mapping pattern="nrdiag" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_" type="PLAIN_TEXT" />
       <mapping pattern=".rbenv-vars-test1" type="PLAIN_TEXT" />
       <mapping pattern="Gemfile_" type="PLAIN_TEXT" />
