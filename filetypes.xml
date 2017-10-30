@@ -17,7 +17,6 @@
       <mapping pattern=".rbenv-vars-prod" type="PLAIN_TEXT" />
       <mapping pattern=".pryrc" type="PLAIN_TEXT" />
       <mapping pattern=".rbenv-vars" type="PLAIN_TEXT" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="drone" type="PLAIN_TEXT" />
       <mapping ext="docker" type="YAML" />
       <mapping ext="sample" type="YAML" />
