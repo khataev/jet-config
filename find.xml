@@ -21,21 +21,21 @@
       <mask>*.sc</mask>
       <mask>*.s</mask>
       <mask>.rb</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.c</mask>
-      <mask>*.co</mask>
-      <mask>*.cof</mask>
-      <mask>*.coff</mask>
-      <mask>*.coffe</mask>
       <mask>*.coffee</mask>
       <mask>*.yml</mask>
       <mask>*.ym</mask>
       <mask>*.y</mask>
-      <mask>*.rb</mask>
-      <mask>*.r</mask>
-      <mask>*.</mask>
       <mask>*</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.coffe</mask>
+      <mask>*.coff</mask>
+      <mask>*.cof</mask>
+      <mask>*.co</mask>
+      <mask>*.c</mask>
+      <mask>*.</mask>
+      <mask>*.r</mask>
+      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
