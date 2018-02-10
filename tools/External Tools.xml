@@ -1,9 +1,0 @@
-<toolSet name="External Tools">
-  <tool name="env vars load" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="/bin/bash" />
-      <option name="PARAMETERS" value="un_new_prod.sh" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/code/ahml/underwriting_under" />
-    </exec>
-  </tool>
-</toolSet>

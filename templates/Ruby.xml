@@ -1,9 +1,0 @@
-<templateSet group="Ruby">
-  <template name="bry" value="binding.pry" description="debugging with binding.pry" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="HAML" value="true" />
-      <option name="RUBY" value="true" />
-      <option name="Slim" value="true" />
-    </context>
-  </template>
-</templateSet>
