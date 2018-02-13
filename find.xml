@@ -4,6 +4,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.erb" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -17,20 +18,23 @@
       <mask>*.yml</mask>
       <mask>*.ym</mask>
       <mask>*.y</mask>
-      <mask>*</mask>
       <mask>*.slim</mask>
       <mask>*.sli</mask>
       <mask>*.sl</mask>
       <mask>*.s</mask>
       <mask>*.rb</mask>
       <mask>*.r</mask>
-      <mask>*.</mask>
       <mask>*.c</mask>
       <mask>*.co</mask>
       <mask>*.cof</mask>
       <mask>*.coff</mask>
       <mask>*.coffe</mask>
       <mask>*.coffee</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.e</mask>
+      <mask>*.er</mask>
+      <mask>*.erb</mask>
     </recentFileMasks>
   </component>
 </application>
