@@ -4,6 +4,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.slim" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -26,14 +27,14 @@
       <mask>*.e</mask>
       <mask>*.er</mask>
       <mask>*.erb</mask>
+      <mask>*.r</mask>
+      <mask>*.rb</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.sl</mask>
       <mask>*.sli</mask>
       <mask>*.slim</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.r</mask>
-      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
