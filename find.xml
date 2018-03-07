@@ -25,16 +25,16 @@
       <mask>*.sli</mask>
       <mask>*.sl</mask>
       <mask>*.s</mask>
-      <mask>*.rb</mask>
-      <mask>*.r</mask>
       <mask>*.less</mask>
       <mask>*.les</mask>
       <mask>*.le</mask>
       <mask>*.l</mask>
-      <mask>*.</mask>
-      <mask>*.c</mask>
-      <mask>*.cs</mask>
       <mask>*.css</mask>
+      <mask>*.cs</mask>
+      <mask>*.c</mask>
+      <mask>*.</mask>
+      <mask>*.r</mask>
+      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
