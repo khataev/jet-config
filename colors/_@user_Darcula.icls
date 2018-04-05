@@ -1,0 +1,17 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2018-03-13T11:44:24</property>
+    <property name="ide">Ruby</property>
+    <property name="ideVersion">2017.3.0.0</property>
+    <property name="modified">2018-04-05T11:21:21</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="RUBY_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="736c6c" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
