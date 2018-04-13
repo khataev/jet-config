@@ -4,37 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.mxml</mask>
-      <mask>*.co</mask>
-      <mask>*.cof</mask>
-      <mask>*.coff</mask>
-      <mask>*.coffe</mask>
-      <mask>*.coffee</mask>
-      <mask>*.e</mask>
-      <mask>*.er</mask>
-      <mask>*.erb</mask>
-      <mask>*.slim</mask>
-      <mask>*.sli</mask>
-      <mask>*.sl</mask>
-      <mask>*.s</mask>
-      <mask>*.less</mask>
-      <mask>*.les</mask>
-      <mask>*.le</mask>
-      <mask>*.l</mask>
-      <mask>*.css</mask>
-      <mask>*.cs</mask>
-      <mask>*.c</mask>
-      <mask>*</mask>
-      <mask>*.yml</mask>
-      <mask>*.ym</mask>
-      <mask>*.y</mask>
-      <mask>*.</mask>
-      <mask>*.r</mask>
-      <mask>*.rb</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.rb" />
   </component>
 </application>
