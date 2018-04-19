@@ -1,3 +1,6 @@
 <code_scheme name="Default" version="173">
   <option name="SOFT_MARGINS" value="80" />
+  <codeStyleSettings language="ruby">
+    <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
+  </codeStyleSettings>
 </code_scheme>
