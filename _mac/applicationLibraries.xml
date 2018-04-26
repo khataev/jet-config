@@ -5274,6 +5274,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/private_pub-1.0.3/app" />
       </SOURCES>
     </library>
+    <library name="prometheus-client (v0.7.1, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/prometheus-client-0.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/prometheus-client-0.7.1/lib" />
+      </SOURCES>
+    </library>
     <library name="pry (v0.10.4, rbenv: 2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/pry-0.10.4/lib" />
@@ -5478,6 +5486,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/pundit-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="quantile (v0.2.0, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/quantile-0.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/quantile-0.2.0/lib" />
       </SOURCES>
     </library>
     <library name="quiet_assets (v1.1.0, rbenv: 2.3.0) [gem]">
