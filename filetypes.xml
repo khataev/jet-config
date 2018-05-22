@@ -4,6 +4,7 @@
       <mapping ext="ejs" type="HTML" />
       <mapping ext="js_" type="PLAIN_TEXT" />
       <mapping ext="skim" type="Slim" />
+      <mapping ext="local" type="YAML" />
     </extensionMap>
   </component>
 </application>
