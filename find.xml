@@ -14,9 +14,9 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.yml</mask>
       <mask>*.rb</mask>
       <mask>*.slim</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
