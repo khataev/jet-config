@@ -10372,6 +10372,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/slop-3.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="sms_gate (v0.0.1@29c07e, rbenv: 2.5.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/sms_gate-29c07e37b3e8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/sms_gate-29c07e37b3e8/lib" />
+      </SOURCES>
+    </library>
     <library name="sms_gate (v0.0.1@2bc091, rbenv: 2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/sms_gate-2bc091f1634b/lib" />
