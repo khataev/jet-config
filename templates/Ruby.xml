@@ -4,4 +4,14 @@
       <option name="RUBY" value="true" />
     </context>
   </template>
+  <template name="frl" value="# frozen_string_literal: true" description="# frozen_string_literal: true" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
+  <template name="tdk" value="# TODO(khataev): " description="# TODO(khataev)" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
 </templateSet>
