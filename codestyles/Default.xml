@@ -4,6 +4,9 @@
   <Ruby>
     <option name="INDENT_WHEN_CASES" value="false" />
   </Ruby>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
   <codeStyleSettings language="ruby">
     <option name="SPACE_WITHIN_BRACES" value="true" />
     <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
