@@ -4,7 +4,9 @@
       <mapping ext="ejs" type="HTML" />
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="js_" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="skim" type="Slim" />
       <mapping ext="local" type="YAML" />
     </extensionMap>
