@@ -20088,14 +20088,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/trailblazer-context-0.1.2/lib" />
       </SOURCES>
     </library>
-    <library name="trailblazer-loader (v0.1.2, rbenv: 2.4.1) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/trailblazer-loader-0.1.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/trailblazer-loader-0.1.2/lib" />
-      </SOURCES>
-    </library>
     <library name="trailblazer-loader (v0.1.2, rbenv: 2.4.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/trailblazer-loader-0.1.2/lib" />
