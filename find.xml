@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
@@ -13,11 +15,11 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.slim</mask>
       <mask>*_spec.rb</mask>
       <mask>*.json</mask>
       <mask>*.yml</mask>
       <mask>*.rb</mask>
+      <mask>*.slim</mask>
     </recentFileMasks>
   </component>
 </application>
