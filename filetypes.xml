@@ -9,6 +9,7 @@
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="js_" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
+      <mapping ext="coffee_" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="skim" type="Slim" />
       <mapping ext="local" type="YAML" />
