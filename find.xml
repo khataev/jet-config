@@ -15,9 +15,9 @@
       <mask>*.mxml</mask>
       <mask>*_spec.rb</mask>
       <mask>*.json</mask>
-      <mask>*.rb</mask>
       <mask>*.slim</mask>
       <mask>*.yml</mask>
+      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
