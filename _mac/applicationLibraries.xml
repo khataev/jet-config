@@ -5600,6 +5600,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/devise-4.5.0/app" />
       </SOURCES>
     </library>
+    <library name="devise (v4.6.0, rbenv: 2.4.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/devise-4.6.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/devise-4.6.0/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/devise-4.6.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/devise-4.6.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/devise-4.6.0/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/devise-4.6.0/config" />
+      </SOURCES>
+    </library>
     <library name="devise-encryptable (v0.2.0, rbenv: 2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/devise-encryptable-0.2.0/lib" />
@@ -8708,6 +8720,24 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/ice_nine-0.11.2/benchmarks" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/ice_nine-0.11.2/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/ice_nine-0.11.2/config" />
+      </SOURCES>
+    </library>
+    <library name="inbox_core (v0.1.0@02e9eb, rbenv: 2.4.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/bundler/gems/inbox_core-02e9eb7a05b3/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/bundler/gems/inbox_core-02e9eb7a05b3/vendor" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/bundler/gems/inbox_core-02e9eb7a05b3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/bundler/gems/inbox_core-02e9eb7a05b3/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/bundler/gems/inbox_core-02e9eb7a05b3/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/bundler/gems/inbox_core-02e9eb7a05b3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/bundler/gems/inbox_core-02e9eb7a05b3/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/bundler/gems/inbox_core-02e9eb7a05b3/vendor" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/bundler/gems/inbox_core-02e9eb7a05b3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/bundler/gems/inbox_core-02e9eb7a05b3/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/bundler/gems/inbox_core-02e9eb7a05b3/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/bundler/gems/inbox_core-02e9eb7a05b3/lib" />
       </SOURCES>
     </library>
     <library name="inbox_core (v0.1.0@2b8c34, rbenv: 2.4.5) [gem]">
