@@ -18,6 +18,7 @@
       <mask>*.slim</mask>
       <mask>*.yml</mask>
       <mask>*.rb</mask>
+      <mask>*.</mask>
     </recentFileMasks>
   </component>
 </application>
