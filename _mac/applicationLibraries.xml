@@ -13102,6 +13102,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/money-6.13.1/config" />
       </SOURCES>
     </library>
+    <library name="mortgage-http-clients (v0.1.0@263fa7, rbenv: 2.6.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/bundler/gems/mortgage-http-clients-263fa75b314a/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/bundler/gems/mortgage-http-clients-263fa75b314a/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/bundler/gems/mortgage-http-clients-263fa75b314a/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/bundler/gems/mortgage-http-clients-263fa75b314a/lib" />
+      </SOURCES>
+    </library>
     <library name="mortgage-http-clients (v0.1.0@f044b6, rbenv: 2.6.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/bundler/gems/mortgage-http-clients-f044b677e3ac/lib" />
