@@ -17,8 +17,8 @@
       <mask>*.json</mask>
       <mask>*.slim</mask>
       <mask>*.yml</mask>
-      <mask>*.rb</mask>
       <mask>*.</mask>
+      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
