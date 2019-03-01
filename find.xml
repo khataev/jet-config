@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.rb" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -17,9 +16,9 @@
       <mask>*_spec.rb</mask>
       <mask>*.json</mask>
       <mask>*.slim</mask>
-      <mask>*.yml</mask>
       <mask>*.</mask>
       <mask>*.rb</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
