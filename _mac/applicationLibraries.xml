@@ -19064,6 +19064,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/redis-4.0.1/.travis" />
       </SOURCES>
     </library>
+    <library name="redis (v4.1.0, rbenv: 2.6.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/redis-4.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/redis-4.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="redis-actionpack (v5.0.2, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/redis-actionpack-5.0.2/lib" />
