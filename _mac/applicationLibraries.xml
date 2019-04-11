@@ -3398,11 +3398,13 @@
     </library>
     <library name="bootsnap (v1.4.0, rbenv: 2.6.1) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bootsnap/1.4.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bootsnap/1.4.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.0/lib" />
@@ -9886,6 +9888,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/hirb-0.7.3/lib" />
       </SOURCES>
     </library>
+    <library name="hirb (v0.7.3, rbenv: 2.6.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/hirb-0.7.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/hirb-0.7.3/lib" />
+      </SOURCES>
+    </library>
     <library name="hitimes (v1.2.6, rbenv: 2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/hitimes-1.2.6/ext" />
@@ -13988,12 +13998,14 @@
     </library>
     <library name="msgpack (v1.2.6, rbenv: 2.6.1) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/msgpack/1.2.6" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/msgpack-1.2.6/bench" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/msgpack-1.2.6/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/msgpack-1.2.6/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/msgpack-1.2.6/doclib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/msgpack/1.2.6" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/msgpack-1.2.6/bench" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/msgpack-1.2.6/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/msgpack-1.2.6/lib" />
@@ -24372,6 +24384,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/trailblazer-2.1.0.rc1/lib" />
       </SOURCES>
     </library>
+    <library name="trailblazer (v2.1.0.rc1, rbenv: 2.6.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/trailblazer-2.1.0.rc1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/trailblazer-2.1.0.rc1/lib" />
+      </SOURCES>
+    </library>
     <library name="trailblazer-activity (v0.7.1, rbenv: 2.4.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/trailblazer-activity-0.7.1/lib" />
@@ -24388,6 +24408,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/trailblazer-activity-0.7.1/lib" />
       </SOURCES>
     </library>
+    <library name="trailblazer-activity (v0.7.1, rbenv: 2.6.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/trailblazer-activity-0.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/trailblazer-activity-0.7.1/lib" />
+      </SOURCES>
+    </library>
     <library name="trailblazer-context (v0.1.2, rbenv: 2.4.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/trailblazer-context-0.1.2/lib" />
@@ -24402,6 +24430,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/trailblazer-context-0.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="trailblazer-context (v0.1.2, rbenv: 2.6.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/trailblazer-context-0.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/trailblazer-context-0.1.2/lib" />
       </SOURCES>
     </library>
     <library name="trailblazer-loader (v0.1.2, rbenv: 2.4.5) [gem]">
@@ -24444,6 +24480,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/trailblazer-macro-2.1.0.rc1/lib" />
       </SOURCES>
     </library>
+    <library name="trailblazer-macro (v2.1.0.rc1, rbenv: 2.6.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/trailblazer-macro-2.1.0.rc1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/trailblazer-macro-2.1.0.rc1/lib" />
+      </SOURCES>
+    </library>
     <library name="trailblazer-macro-contract (v2.1.0.rc1, rbenv: 2.4.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/trailblazer-macro-contract-2.1.0.rc1/lib" />
@@ -24458,6 +24502,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/trailblazer-macro-contract-2.1.0.rc1/lib" />
+      </SOURCES>
+    </library>
+    <library name="trailblazer-macro-contract (v2.1.0.rc1, rbenv: 2.6.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/trailblazer-macro-contract-2.1.0.rc1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/trailblazer-macro-contract-2.1.0.rc1/lib" />
       </SOURCES>
     </library>
     <library name="trailblazer-operation (v0.0.13, rbenv: 2.4.1) [gem]">
@@ -24498,6 +24550,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/trailblazer-operation-0.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="trailblazer-operation (v0.4.1, rbenv: 2.6.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/trailblazer-operation-0.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/trailblazer-operation-0.4.1/lib" />
       </SOURCES>
     </library>
     <library name="trailblazer-rails (v1.0.9, rbenv: 2.4.1) [gem]">
@@ -24554,6 +24614,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/trailblazer-rails-2.1.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="trailblazer-rails (v2.1.7, rbenv: 2.6.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/trailblazer-rails-2.1.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/trailblazer-rails-2.1.7/lib" />
       </SOURCES>
     </library>
     <library name="tty-color (v0.4.2, rbenv: 2.4.1) [gem]">
