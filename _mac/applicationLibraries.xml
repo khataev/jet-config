@@ -304,6 +304,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/actioncable-5.2.3/lib" />
       </SOURCES>
     </library>
+    <library name="actioncable (v5.2.3, rbenv: 2.6.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/actioncable-5.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/actioncable-5.2.3/lib" />
+      </SOURCES>
+    </library>
     <library name="actioncable (v5.2.3, rbenv: 2.6.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/actioncable-5.2.3/lib" />
@@ -494,6 +502,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/actionmailer-5.2.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionmailer (v5.2.3, rbenv: 2.6.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/actionmailer-5.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/actionmailer-5.2.3/lib" />
       </SOURCES>
     </library>
     <library name="actionmailer (v5.2.3, rbenv: 2.6.2) [gem]">
@@ -688,6 +704,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/actionpack-5.2.3/lib" />
       </SOURCES>
     </library>
+    <library name="actionpack (v5.2.3, rbenv: 2.6.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/actionpack-5.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/actionpack-5.2.3/lib" />
+      </SOURCES>
+    </library>
     <library name="actionpack (v5.2.3, rbenv: 2.6.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/actionpack-5.2.3/lib" />
@@ -878,6 +902,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/actionview-5.2.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionview (v5.2.3, rbenv: 2.6.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/actionview-5.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/actionview-5.2.3/lib" />
       </SOURCES>
     </library>
     <library name="actionview (v5.2.3, rbenv: 2.6.2) [gem]">
@@ -1444,6 +1476,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/activejob-5.2.3/lib" />
       </SOURCES>
     </library>
+    <library name="activejob (v5.2.3, rbenv: 2.6.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/activejob-5.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/activejob-5.2.3/lib" />
+      </SOURCES>
+    </library>
     <library name="activejob (v5.2.3, rbenv: 2.6.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/activejob-5.2.3/lib" />
@@ -1660,6 +1700,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/activemodel-5.2.3/lib" />
       </SOURCES>
     </library>
+    <library name="activemodel (v5.2.3, rbenv: 2.6.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/activemodel-5.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/activemodel-5.2.3/lib" />
+      </SOURCES>
+    </library>
     <library name="activemodel (v5.2.3, rbenv: 2.6.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/activemodel-5.2.3/lib" />
@@ -1858,6 +1906,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/activerecord-5.2.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="activerecord (v5.2.3, rbenv: 2.6.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/activerecord-5.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/activerecord-5.2.3/lib" />
       </SOURCES>
     </library>
     <library name="activerecord (v5.2.3, rbenv: 2.6.2) [gem]">
@@ -2066,6 +2122,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/activestorage-5.2.3/config" />
       </SOURCES>
     </library>
+    <library name="activestorage (v5.2.3, rbenv: 2.6.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/activestorage-5.2.3/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/activestorage-5.2.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/activestorage-5.2.3/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/activestorage-5.2.3/db" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/activestorage-5.2.3/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/activestorage-5.2.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/activestorage-5.2.3/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/activestorage-5.2.3/db" />
+      </SOURCES>
+    </library>
     <library name="activestorage (v5.2.3, rbenv: 2.6.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/activestorage-5.2.3/app" />
@@ -2262,6 +2332,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/activesupport-5.2.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v5.2.3, rbenv: 2.6.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/activesupport-5.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/activesupport-5.2.3/lib" />
       </SOURCES>
     </library>
     <library name="activesupport (v5.2.3, rbenv: 2.6.2) [gem]">
@@ -4016,6 +4094,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.3/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.3/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.3/.github" />
+      </SOURCES>
+    </library>
+    <library name="bootsnap (v1.4.4, rbenv: 2.6.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.4/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.4/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.4/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/bootsnap-1.4.4/ext" />
       </SOURCES>
     </library>
     <library name="bootstrap-datepicker-rails (v1.7.1.1, rbenv: 2.4.1) [gem]">
@@ -10008,6 +10100,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/ffi-1.10.0/lib" />
       </SOURCES>
     </library>
+    <library name="ffi (v1.11.1, rbenv: 2.6.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/ffi-1.11.1/samples" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/ffi-1.11.1/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/ffi-1.11.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/ffi-1.11.1/samples" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/ffi-1.11.1/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/ffi-1.11.1/lib" />
+      </SOURCES>
+    </library>
     <library name="ffi (v1.9.18, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/ffi-1.9.18/gen" />
@@ -15828,6 +15932,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/bundler/gems/mortgage-http-clients-e2174412df72/bin" />
       </SOURCES>
     </library>
+    <library name="msgpack (v1.2.10, rbenv: 2.6.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/msgpack-1.2.10/bench" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/msgpack-1.2.10/doclib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/msgpack-1.2.10/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/msgpack-1.2.10/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/msgpack-1.2.10/bench" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/msgpack-1.2.10/doclib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/msgpack-1.2.10/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/msgpack-1.2.10/lib" />
+      </SOURCES>
+    </library>
     <library name="msgpack (v1.2.4, rbenv: 2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/msgpack-1.2.4/ext" />
@@ -16888,6 +17006,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/nokogiri-1.10.3/patches" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/nokogiri-1.10.3/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/nokogiri-1.10.3/bin" />
+      </SOURCES>
+    </library>
+    <library name="nokogiri (v1.10.3, rbenv: 2.6.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3/patches" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3/patches" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3/bin" />
       </SOURCES>
     </library>
     <library name="nokogiri (v1.10.3, rbenv: 2.6.2) [gem]">
@@ -19656,6 +19788,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/rack-2.0.7/contrib" />
       </SOURCES>
     </library>
+    <library name="rack (v2.0.7, rbenv: 2.6.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/rack-2.0.7/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/rack-2.0.7/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/rack-2.0.7/contrib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/rack-2.0.7/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/rack-2.0.7/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/rack-2.0.7/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/rack-2.0.7/contrib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/rack-2.0.7/example" />
+      </SOURCES>
+    </library>
     <library name="rack (v2.0.7, rbenv: 2.6.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/rack-2.0.7/bin" />
@@ -20108,6 +20254,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/rails-5.2.3" />
+      </SOURCES>
+    </library>
+    <library name="rails (v5.2.3, rbenv: 2.6.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/rails-5.2.3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/rails-5.2.3" />
       </SOURCES>
     </library>
     <library name="rails (v5.2.3, rbenv: 2.6.2) [gem]">
@@ -20850,6 +21004,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/railties-5.2.3/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/railties-5.2.3/exe" />
+      </SOURCES>
+    </library>
+    <library name="railties (v5.2.3, rbenv: 2.6.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/railties-5.2.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/railties-5.2.3/exe" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/railties-5.2.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/railties-5.2.3/exe" />
       </SOURCES>
     </library>
     <library name="railties (v5.2.3, rbenv: 2.6.2) [gem]">
@@ -26632,6 +26796,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/sqlite3-1.4.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/sqlite3-1.4.0/faq" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/sqlite3-1.4.0/rakelib" />
+      </SOURCES>
+    </library>
+    <library name="sqlite3 (v1.4.1, rbenv: 2.6.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/sqlite3-1.4.1/faq" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/sqlite3-1.4.1/rakelib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/sqlite3-1.4.1/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/sqlite3-1.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/sqlite3-1.4.1/faq" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/sqlite3-1.4.1/rakelib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/sqlite3-1.4.1/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/sqlite3-1.4.1/lib" />
       </SOURCES>
     </library>
     <library name="sshkit (v1.10.0, rbenv: 2.4.1) [gem]">
