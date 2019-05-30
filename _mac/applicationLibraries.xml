@@ -11138,6 +11138,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/grape-entity-0.7.1/bench" />
       </SOURCES>
     </library>
+    <library name="grape-route-helpers (v2.1.0, rbenv: 2.6.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/grape-route-helpers-2.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/grape-route-helpers-2.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="grape-swagger (v0.32.0, rbenv: 2.4.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/grape-swagger-0.32.0/lib" />
