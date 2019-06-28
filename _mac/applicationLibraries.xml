@@ -31016,6 +31016,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/websocket-driver-0.7.1/lib" />
       </SOURCES>
     </library>
+    <library name="websocket-driver (v0.7.1, rbenv: 2.6.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/websocket-driver-0.7.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/websocket-driver-0.7.1/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/websocket-driver-0.7.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/websocket-driver-0.7.1/ext" />
+      </SOURCES>
+    </library>
     <library name="websocket-extensions (v0.1.2, rbenv: 2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/websocket-extensions-0.1.2/lib" />
@@ -31094,6 +31104,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/websocket-extensions-0.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="websocket-extensions (v0.1.4, rbenv: 2.6.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/websocket-extensions-0.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/websocket-extensions-0.1.4/lib" />
       </SOURCES>
     </library>
     <library name="whenever (v0.10.0, rbenv: 2.3.0) [gem]">
