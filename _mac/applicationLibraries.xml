@@ -8504,6 +8504,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/docsplit-0.7.6/lib" />
       </SOURCES>
     </library>
+    <library name="document_matching (v0.1.0@5f3418, rbenv: 2.6.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/bundler/gems/document_matching-5f341848abdf/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/bundler/gems/document_matching-5f341848abdf/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/bundler/gems/document_matching-5f341848abdf/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/bundler/gems/document_matching-5f341848abdf/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/bundler/gems/document_matching-5f341848abdf/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/bundler/gems/document_matching-5f341848abdf/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/bundler/gems/document_matching-5f341848abdf/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/bundler/gems/document_matching-5f341848abdf/config" />
+      </SOURCES>
+    </library>
     <library name="domain_name (v0.5.20170404, rbenv: 2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/domain_name-0.5.20170404/data" />
