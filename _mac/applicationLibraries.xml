@@ -17926,12 +17926,14 @@
     </library>
     <library name="nokogiri (v1.10.1, rbenv: 2.6.1) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.10.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.1/patches" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.1/bin" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.10.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.1/patches" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.1/ext" />
@@ -18488,11 +18490,13 @@
     </library>
     <library name="oj (v3.7.9, rbenv: 2.6.1) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/oj/3.7.9" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/oj-3.7.9/pages" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/oj-3.7.9/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/oj-3.7.9/ext" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/oj/3.7.9" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/oj-3.7.9/pages" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/oj-3.7.9/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/oj-3.7.9/ext" />
@@ -19342,10 +19346,12 @@
     </library>
     <library name="pg (v1.1.4, rbenv: 2.6.1) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/pg/1.1.4" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/pg-1.1.4/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/pg-1.1.4/ext" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/pg/1.1.4" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/pg-1.1.4/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/pg-1.1.4/ext" />
       </SOURCES>
@@ -25146,10 +25152,12 @@
     </library>
     <library name="ruby-filemagic (v0.7.2, rbenv: 2.6.1) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ruby-filemagic/0.7.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/ruby-filemagic-0.7.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/ruby-filemagic-0.7.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ruby-filemagic/0.7.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/ruby-filemagic-0.7.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/ruby-filemagic-0.7.2/lib" />
       </SOURCES>
