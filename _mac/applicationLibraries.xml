@@ -3792,10 +3792,12 @@
     </library>
     <library name="bcrypt (v3.1.11, rbenv: 2.4.5) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/bcrypt-3.1.11/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/bcrypt-3.1.11/ext" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/bcrypt-3.1.11/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/bcrypt-3.1.11/ext" />
       </SOURCES>
@@ -10736,12 +10738,14 @@
     </library>
     <library name="ffi (v1.9.18, rbenv: 2.4.5) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.18" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/ffi-1.9.18/libtest" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/ffi-1.9.18/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/ffi-1.9.18/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/ffi-1.9.18/gen" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.18" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/ffi-1.9.18/libtest" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/ffi-1.9.18/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/ffi-1.9.18/ext" />
@@ -13286,10 +13290,12 @@
     </library>
     <library name="jaro_winkler (v1.5.1, rbenv: 2.4.5) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/jaro_winkler/1.5.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/jaro_winkler-1.5.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/jaro_winkler-1.5.1/ext" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/jaro_winkler/1.5.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/jaro_winkler-1.5.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/jaro_winkler-1.5.1/ext" />
       </SOURCES>
@@ -17760,11 +17766,13 @@
     </library>
     <library name="nio4r (v2.1.0, rbenv: 2.4.5) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.1.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/nio4r-2.1.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/nio4r-2.1.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/nio4r-2.1.0/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.1.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/nio4r-2.1.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/nio4r-2.1.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/nio4r-2.1.0/tasks" />
@@ -18094,6 +18102,7 @@
     </library>
     <library name="nokogiri (v1.8.0, rbenv: 2.4.5) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.0/patches" />
@@ -18102,6 +18111,7 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.0/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.0/patches" />
@@ -22748,11 +22758,13 @@
     </library>
     <library name="rb-fsevent (v0.10.2, rbenv: 2.4.5) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.2/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.2/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.2/lib" />
