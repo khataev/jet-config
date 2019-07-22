@@ -8688,6 +8688,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/dotenv-2.7.2/bin" />
       </SOURCES>
     </library>
+    <library name="dotenv (v2.7.4, rbenv: 2.6.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/dotenv-2.7.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/dotenv-2.7.4/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/dotenv-2.7.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/dotenv-2.7.4/bin" />
+      </SOURCES>
+    </library>
     <library name="dotenv-deployment (v0.3.0, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/dotenv-deployment-0.3.0/lib" />
@@ -8710,6 +8720,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/dotenv-rails-2.7.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="dotenv-rails (v2.7.4, rbenv: 2.6.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/dotenv-rails-2.7.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/dotenv-rails-2.7.4/lib" />
       </SOURCES>
     </library>
     <library name="dry-configurable (v0.7.0, rbenv: 2.4.1) [gem]">
