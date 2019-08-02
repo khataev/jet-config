@@ -9692,6 +9692,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/equatable-0.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="errors_yabeda (v0.1.0@a83ff0, rbenv: 2.5.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/errors_yabeda-a83ff0f9421a/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/errors_yabeda-a83ff0f9421a/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/errors_yabeda-a83ff0f9421a/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/errors_yabeda-a83ff0f9421a/bin" />
+      </SOURCES>
+    </library>
     <library name="erubi (v1.6.1, rbenv: 2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/erubi-1.6.1/lib" />
