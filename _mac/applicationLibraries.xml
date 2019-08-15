@@ -27950,6 +27950,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/sneakers-2.7.0/scripts" />
       </SOURCES>
     </library>
+    <library name="sneakers_yabeda (v0.1.0@7eac99, rbenv: 2.5.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/sneakers_yabeda-7eac99f68434/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/sneakers_yabeda-7eac99f68434/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/sneakers_yabeda-7eac99f68434/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/sneakers_yabeda-7eac99f68434/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/sneakers_yabeda-7eac99f68434/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/sneakers_yabeda-7eac99f68434/config" />
+      </SOURCES>
+    </library>
     <library name="sneakers_yabeda (v0.1.0@e5e729, rbenv: 2.5.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/sneakers_yabeda-e5e7293e0461/config" />
