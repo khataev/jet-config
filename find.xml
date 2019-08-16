@@ -5,6 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.rb" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -20,8 +21,8 @@
       <mask>*.</mask>
       <mask>Gemfile</mask>
       <mask>*.json</mask>
-      <mask>*.rb</mask>
       <mask>*.yml</mask>
+      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
