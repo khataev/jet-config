@@ -9754,6 +9754,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/errors_yabeda-32916349263e/bin" />
       </SOURCES>
     </library>
+    <library name="errors_yabeda (v0.1.2@78735f, rbenv: 2.5.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/errors_yabeda-78735fafb915/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/errors_yabeda-78735fafb915/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/errors_yabeda-78735fafb915/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/errors_yabeda-78735fafb915/bin" />
+      </SOURCES>
+    </library>
     <library name="errors_yabeda (v0.1.2@b43619, rbenv: 2.5.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/errors_yabeda-b436196701cd/lib" />
