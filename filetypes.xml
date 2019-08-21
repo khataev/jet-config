@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="coffe" type="CoffeeScript" />
-      <removed_mapping pattern=".editorconfig" approved="true" type="EditorConfig" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="ejs" type="HTML" />
@@ -15,8 +14,8 @@
       <mapping ext="js_" type="PLAIN_TEXT" />
       <mapping ext="rb_" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <mapping ext="skim" type="Slim" />
       <mapping ext="local" type="YAML" />
