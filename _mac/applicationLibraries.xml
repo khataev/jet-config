@@ -6928,6 +6928,37 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/bunny-2.14.2/benchmarks" />
       </excluded>
     </library>
+    <library name="bunny (v2.14.2, rbenv: 2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/bunny-2.14.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/bunny-2.14.2/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/bunny-2.14.2/docker" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/bunny-2.14.2/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/bunny-2.14.2/examples" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/bunny-2.14.2/profiling" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/bunny-2.14.2/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/bunny-2.14.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/bunny-2.14.2/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/bunny-2.14.2/docker" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/bunny-2.14.2/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/bunny-2.14.2/examples" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/bunny-2.14.2/profiling" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/bunny-2.14.2/benchmarks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/bunny-2.14.2/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/bunny-2.14.2/docker" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/bunny-2.14.2/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/bunny-2.14.2/examples" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/bunny-2.14.2/profiling" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/bunny-2.14.2/benchmarks" />
+      </excluded>
+    </library>
     <library name="bunny (v2.6.5, rbenv: 2.4.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
