@@ -38483,6 +38483,28 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bundler/gems/sneakers_yabeda-2f2721914e5e/config" />
       </excluded>
     </library>
+    <library name="sneakers_yabeda (v0.1.0@3280e1, rbenv: 2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/bundler/gems/sneakers_yabeda-3280e10b8749/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/bundler/gems/sneakers_yabeda-3280e10b8749/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/bundler/gems/sneakers_yabeda-3280e10b8749/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/bundler/gems/sneakers_yabeda-3280e10b8749/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/bundler/gems/sneakers_yabeda-3280e10b8749/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/bundler/gems/sneakers_yabeda-3280e10b8749/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/bundler/gems/sneakers_yabeda-3280e10b8749/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/bundler/gems/sneakers_yabeda-3280e10b8749/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/bundler/gems/sneakers_yabeda-3280e10b8749/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/bundler/gems/sneakers_yabeda-3280e10b8749/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/bundler/gems/sneakers_yabeda-3280e10b8749/config" />
+      </excluded>
+    </library>
     <library name="sneakers_yabeda (v0.1.0@7eac99, rbenv: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
