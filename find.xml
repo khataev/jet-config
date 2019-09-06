@@ -12,7 +12,7 @@
     <mask>*.rake</mask>
     <mask>*.gemspec</mask>
     <mask>*.thor</mask>
-    <mask>*.yml</mask>
     <mask>*.rb</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
