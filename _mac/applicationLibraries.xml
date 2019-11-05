@@ -2534,6 +2534,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/activesupport-5.2.3/lib" />
       </SOURCES>
     </library>
+    <library name="activesupport (v5.2.3, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/activesupport-5.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/activesupport-5.2.3/lib" />
+      </SOURCES>
+    </library>
     <library name="activesupport (v6.0.0, rbenv: 2.6.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -11950,6 +11961,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/erubi-1.8.0/test" />
       </excluded>
     </library>
+    <library name="erubi (v1.8.0, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/erubi-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/erubi-1.8.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/erubi-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/erubi-1.8.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/erubi-1.8.0/test" />
+      </excluded>
+    </library>
     <library name="erubi (v1.9.0, rbenv: 2.6.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -16199,6 +16226,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/i18n-1.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="i18n (v1.6.0, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/i18n-1.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/i18n-1.6.0/lib" />
       </SOURCES>
     </library>
     <library name="i18n (v1.7.0, rbenv: 2.6.1) [gem]" type="rubylib">
