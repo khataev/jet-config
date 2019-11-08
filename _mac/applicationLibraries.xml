@@ -6137,18 +6137,45 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/bundler-1.17.2/exe" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/bundler-1.17.2/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/bundler-1.17.2/man" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/2.6.0/bundler/ui" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/2.6.0/bundler/cli" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/2.6.0/bundler/plugin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/2.6.0/bundler/source" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/2.6.0/bundler/vendor" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/2.6.0/bundler/fetcher" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/2.6.0/bundler/resolver" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/2.6.0/bundler/settings" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/2.6.0/bundler/installer" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/2.6.0/bundler/ssl_certs" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/2.6.0/bundler/templates" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/2.6.0/bundler/compact_index_client" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/bundler-1.17.2/exe" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/bundler-1.17.2/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/bundler-1.17.2/man" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/2.6.0/bundler/ui" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/2.6.0/bundler/cli" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/2.6.0/bundler/plugin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/2.6.0/bundler/source" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/2.6.0/bundler/vendor" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/2.6.0/bundler/fetcher" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/2.6.0/bundler/resolver" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/2.6.0/bundler/settings" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/2.6.0/bundler/installer" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/2.6.0/bundler/ssl_certs" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/2.6.0/bundler/templates" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/2.6.0/bundler/compact_index_client" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/bundler-1.17.2/exe" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/bundler-1.17.2/man" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/2.6.0/bundler/ui" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/2.6.0/bundler/cli" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/2.6.0/bundler/plugin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/2.6.0/bundler/source" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/2.6.0/bundler/fetcher" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/2.6.0/bundler/resolver" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/2.6.0/bundler/settings" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/2.6.0/bundler/installer" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/2.6.0/bundler/ssl_certs" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/2.6.0/bundler/templates" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/2.6.0/bundler/compact_index_client" />
       </excluded>
     </library>
     <library name="bundler (v1.17.2, rbenv: 2.6.2) [gem]" type="rubylib">
@@ -24186,6 +24213,28 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.4/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.4/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.4/patches" />
+      </excluded>
+    </library>
+    <library name="nokogiri (v1.10.5, rbenv: 2.6.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.5/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.5/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.5/patches" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.5/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.5/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.5/patches" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.5/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.5/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.1/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.5/patches" />
       </excluded>
     </library>
     <library name="nokogiri (v1.10.5, rbenv: 2.6.5) [gem]" type="rubylib">
