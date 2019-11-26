@@ -23116,6 +23116,28 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/bundler/gems/mortgage_clients-4024af52ea0c/spec" />
       </excluded>
     </library>
+    <library name="mortgage_clients (v0.1.8@4024af, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/mortgage_clients-4024af52ea0c/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/mortgage_clients-4024af52ea0c/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/mortgage_clients-4024af52ea0c/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/mortgage_clients-4024af52ea0c/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/mortgage_clients-4024af52ea0c/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/mortgage_clients-4024af52ea0c/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/mortgage_clients-4024af52ea0c/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/mortgage_clients-4024af52ea0c/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/mortgage_clients-4024af52ea0c/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/mortgage_clients-4024af52ea0c/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/mortgage_clients-4024af52ea0c/spec" />
+      </excluded>
+    </library>
     <library name="msgpack (v1.2.10, rbenv: 2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
