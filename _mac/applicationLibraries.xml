@@ -14000,6 +14000,28 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/errors_yabeda-23c99a2a5fb5/spec" />
       </excluded>
     </library>
+    <library name="errors_yabeda (v0.1.5@94a999, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/errors_yabeda-94a999af4ea3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/errors_yabeda-94a999af4ea3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/errors_yabeda-94a999af4ea3/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/errors_yabeda-94a999af4ea3/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/errors_yabeda-94a999af4ea3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/errors_yabeda-94a999af4ea3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/errors_yabeda-94a999af4ea3/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/errors_yabeda-94a999af4ea3/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/errors_yabeda-94a999af4ea3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/errors_yabeda-94a999af4ea3/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/bundler/gems/errors_yabeda-94a999af4ea3/spec" />
+      </excluded>
+    </library>
     <library name="erubi (v1.6.1, rbenv: 2.4.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
