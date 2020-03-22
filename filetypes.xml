@@ -2,8 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="coffe" type="CoffeeScript" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="ejs" type="HTML" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
@@ -15,13 +13,12 @@
       <mapping ext="cache" type="PLAIN_TEXT" />
       <mapping ext="js_" type="PLAIN_TEXT" />
       <mapping ext="arb" type="PLAIN_TEXT" />
+      <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="backup" type="PLAIN_TEXT" />
-      <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="coffee_" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
-      <mapping ext="sample" type="PLAIN_TEXT" />
+      <mapping ext="data" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping ext="skim" type="Slim" />
       <mapping ext="local" type="YAML" />
