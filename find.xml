@@ -12,8 +12,8 @@
     <mask>*.rake</mask>
     <mask>*.gemspec</mask>
     <mask>*.thor</mask>
-    <mask>*.json</mask>
     <mask>*.yml</mask>
     <mask>*.rb</mask>
+    <mask>*.json</mask>
   </component>
 </application>
