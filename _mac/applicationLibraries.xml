@@ -4098,6 +4098,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/airbrake-10.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="airbrake (v10.0.3, rbenv: 2.5.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/airbrake-10.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/airbrake-10.0.3/lib" />
+      </SOURCES>
+    </library>
     <library name="airbrake (v10.0.3, rbenv: 2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4610,6 +4621,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/airbrake-ruby-4.14.1/spec" />
+      </excluded>
+    </library>
+    <library name="airbrake-ruby (v4.14.1, rbenv: 2.5.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/airbrake-ruby-4.14.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/airbrake-ruby-4.14.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/airbrake-ruby-4.14.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/airbrake-ruby-4.14.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/airbrake-ruby-4.14.1/spec" />
       </excluded>
     </library>
     <library name="airbrake-ruby (v4.14.1, rbenv: 2.6.5) [gem]" type="rubylib">
@@ -40126,6 +40153,13 @@
       <SOURCES />
     </library>
     <library name="rbtree3 (v0.6.0, rbenv: 2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="rbtree3 (v0.6.0, rbenv: 2.5.7) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
