@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="coffe" type="CoffeeScript" />
+      <mapping pattern="Dockerfile_rabbit" type="Dockerfile" />
       <mapping ext="ejs" type="HTML" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile1" type="PLAIN_TEXT" />
