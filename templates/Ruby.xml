@@ -19,5 +19,9 @@
       <option name="RUBY" value="true" />
     </context>
   </template>
-  <template name="dustep" value="success :dummy&#10;def dummy(options, **)&#10;  binding.pry&#10;end" description="dummy step for trailblazer operation" toReformat="false" toShortenFQNames="true" />
+  <template name="dustep" value="success :dummy&#10;def dummy(options, **)&#10;  binding.pry&#10;end" description="dummy step for trailblazer operation" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
 </templateSet>
