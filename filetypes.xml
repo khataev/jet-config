@@ -14,10 +14,12 @@
       <mapping ext="cache" type="PLAIN_TEXT" />
       <mapping ext="rb_" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
+      <mapping ext="dump1" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="arb" type="PLAIN_TEXT" />
+      <mapping ext="dump" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="js_" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
