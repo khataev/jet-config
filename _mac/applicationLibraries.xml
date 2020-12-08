@@ -5511,6 +5511,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/aws-sdk-s3-1.84.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-s3 (v1.85.0, rbenv: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/aws-sdk-s3-1.85.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/aws-sdk-s3-1.85.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-s3 (v1.86.0, rbenv: 2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5652,6 +5663,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/aws-sdk-ssm-1.98.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-ssm (v1.99.0, rbenv: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/aws-sdk-ssm-1.99.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/aws-sdk-ssm-1.99.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sessionstore-dynamodb (v2.0.1, rbenv: 2.6.5) [gem]" type="rubylib">
@@ -11661,6 +11683,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/down-5.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="down (v5.2.0, rbenv: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/down-5.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/down-5.2.0/lib" />
       </SOURCES>
     </library>
     <library name="dry-auto_inject (v0.6.1, rbenv: 2.6.5) [gem]" type="rubylib">
@@ -39170,6 +39203,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/shrine-3.2.2/doc" />
+      </excluded>
+    </library>
+    <library name="shrine (v3.3.0, rbenv: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/shrine-3.3.0/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/shrine-3.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/shrine-3.3.0/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/shrine-3.3.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/shrine-3.3.0/doc" />
       </excluded>
     </library>
     <library name="sigdump (v0.2.4, rbenv: 2.6.1) [gem]" type="rubylib">
