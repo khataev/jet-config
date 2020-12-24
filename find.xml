@@ -13,7 +13,7 @@
     <mask>*.gemspec</mask>
     <mask>*.thor</mask>
     <mask>*.json</mask>
-    <mask>*.rb</mask>
     <mask>*.yml</mask>
+    <mask>*.rb</mask>
   </component>
 </application>
