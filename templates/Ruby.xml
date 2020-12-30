@@ -19,7 +19,7 @@
       <option name="RUBY" value="true" />
     </context>
   </template>
-  <template name="dustep" value="pass :dummy&#10;def dummy(options, **)&#10;  a=1&#10;end" description="dummy step for trailblazer operation" toReformat="false" toShortenFQNames="true">
+  <template name="dustep" value="pass :dummy, id: :dummy0&#10;def dummy(input, params: {}, model: nil, **)&#10;  a = 1&#10;end" description="dummy step for trailblazer operation" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="RUBY" value="true" />
     </context>
