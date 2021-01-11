@@ -39772,6 +39772,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/sequel_enum-e360d5f10d17/spec" />
       </excluded>
     </library>
+    <library name="sequel_enum (v0.2.0, rbenv: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/sequel_enum-0.2.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/sequel_enum-0.2.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/sequel_enum-0.2.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/sequel_enum-0.2.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/sequel_enum-0.2.0/spec" />
+      </excluded>
+    </library>
     <library name="serverengine (v2.0.7, rbenv: 2.6.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
