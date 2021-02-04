@@ -38,6 +38,7 @@
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern=".editorconfig" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env" approved="true" type="Env File" />
       <removed_mapping pattern="console" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="image_spy" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="prepare_swift" approved="true" type="PLAIN_TEXT" />
