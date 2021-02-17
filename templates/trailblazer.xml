@@ -1,5 +1,9 @@
 <templateSet group="trailblazer">
-  <template name="operrors" value="subject[&quot;errors&quot;]" description="operation errors" toReformat="false" toShortenFQNames="true" />
+  <template name="operrors" value="subject[&quot;errors&quot;]" description="operation errors" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
   <template name="dupass" value="pass :dummy, id: :dummy0&#10;def dummy(input, params: {}, model: nil, **)&#10;  a = 1&#10;end" description="dummy step for trailblazer operation" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="RUBY" value="true" />
@@ -10,5 +14,9 @@
       <option name="RUBY" value="true" />
     </context>
   </template>
-  <template name="conterrors" value="subject[&quot;contract.default&quot;].errors.messages" description="contract errors" toReformat="false" toShortenFQNames="true" />
+  <template name="conterrors" value="subject[&quot;contract.default&quot;].errors.messages" description="contract errors" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
 </templateSet>
