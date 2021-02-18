@@ -1,0 +1,12 @@
+<templateSet group="TAP">
+  <template name="sdv2" value="source_document_v2_" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
+  <template name="SDV2" value="SourceDocumentV2" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
+</templateSet>
