@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="Aptfile" type="AUTO_DETECTED" />
       <mapping ext="coffe" type="CoffeeScript" />
       <mapping pattern="Dockerfile_rabbit" type="Dockerfile" />
       <mapping ext="ejs" type="HTML" />
