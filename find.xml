@@ -14,8 +14,8 @@
     <mask>*.gemspec</mask>
     <mask>*.thor</mask>
     <mask>*.json</mask>
-    <mask>*.csv</mask>
     <mask>*.yml</mask>
+    <mask>*.csv</mask>
     <mask>*.rb</mask>
   </component>
 </application>
