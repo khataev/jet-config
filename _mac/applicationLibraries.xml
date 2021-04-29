@@ -8599,6 +8599,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/2.7.0/bundler/compact_index_client" />
       </excluded>
     </library>
+    <library name="bundler (v2.2.16, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/bundler-2.2.16/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/bundler-2.2.16/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/bundler-2.2.16/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/bundler-2.2.16/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/bundler-2.2.16/exe" />
+      </excluded>
+    </library>
     <library name="bundler (v2.2.5, rbenv: 2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -51123,6 +51139,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/xml-simple-1.1.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="xml-simple (v1.1.8, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/xml-simple-1.1.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/xml-simple-1.1.8/lib" />
       </SOURCES>
     </library>
     <library name="xmlrpc (v0.3.0, rbenv: 2.6.1) [gem]" type="rubylib">
